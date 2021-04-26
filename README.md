@@ -3,5 +3,4 @@
 Responsive<br>
 Bootstrap
 ---
-https://htmlpreview.github.io/https://github.com/ValentynaKovryhina/master-salon-beauty
-
+https://htmlpreview.github.io/https://github.com/ValentynaKovryhina/master-salon-beauty/src/index.html
