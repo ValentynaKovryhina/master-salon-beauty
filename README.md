@@ -1,4 +1,6 @@
 # master-salon-beauty
 ## Home page for a beauty salon website
-Responsive
+Responsive<br>
 Bootstrap
+---
+https://htmlpreview.github.io/ 
